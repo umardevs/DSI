@@ -1,0 +1,491 @@
+@media (max-width: 1440px) {
+  .container {
+    width: 90%;
+  }
+}
+@media (max-width: 1200px) {
+}
+@media (max-width: 1024px) {
+}
+@media (max-width: 992px) {
+  .header-nav {
+    display: none;
+  }
+  .hero {
+    flex-direction: column;
+  }
+  .hero-text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding-bottom: 30px;
+  }
+  .hero2 {
+    flex-direction: column;
+  }
+  .hero2-text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding-top: 30px;
+  }
+  .product p {
+    font-size: 15px;
+  }
+}
+@media (max-width: 768px) {
+  .header-nav {
+    display: none;
+  }
+  .hero {
+    flex-direction: column;
+  }
+  .hero-text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding-bottom: 30px;
+  }
+  .hero2 {
+    flex-direction: column;
+  }
+  .hero2-text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding-top: 30px;
+  }
+  .product p {
+    font-size: 12px;
+  }
+}
+@media (max-width: 576px) {
+  .header-nav {
+    display: none;
+  }
+  .hero {
+    flex-direction: column;
+  }
+  .hero-text h1 {
+    font-size: 36px;
+  }
+  .hero-text span {
+    font-size: 36px;
+  }
+  .hero-text p {
+    font-size: 16px;
+  }
+  .hero-text button {
+    font-size: 16px;
+  }
+  .hero img {
+    width: 480px;
+    height: 280px;
+  }
+  .hero-text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding-bottom: 30px;
+  }
+  .hero2 {
+    flex-direction: column;
+  }
+  .hero2-text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding-top: 30px;
+  }
+  .hero2-text h1 {
+    font-size: 42px;
+  }
+  .hero2-text p {
+    font-size: 16px;
+  }
+  .hero2 img {
+    width: 480px;
+    height: 368px;
+  }
+  .product {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .product-text {
+    padding-bottom: 30px;
+  }
+  .product p {
+    font-size: 16px;
+  }
+}
+@media (max-width: 451px) {
+  .header-nav {
+    display: none;
+  }
+  .header img {
+    width: 90px;
+    height: 40px;
+  }
+  .hero {
+    flex-direction: column;
+  }
+  .hero-text h1 {
+    font-size: 32px;
+  }
+  .hero-text span {
+    font-size: 32px;
+  }
+  .hero-text p {
+    font-size: 13px;
+  }
+  .hero-text button {
+    font-size: 13px;
+  }
+  .hero img {
+    width: 354px;
+    height: 208px;
+  }
+  .hero-text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding-bottom: 30px;
+  }
+  .hero2 {
+    flex-direction: column;
+  }
+  .hero2-text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding-top: 30px;
+  }
+  .hero2-text h2 {
+    font-size: 25px;
+  }
+  .hero2-text span {
+    font-size: 25px;
+  }
+  .hero2-text p {
+    font-size: 12px;
+  }
+  .hero2-text p span {
+    font-size: 15px;
+  }
+  .hero2 img {
+    width: 380px;
+    height: 350px;
+  }
+  .product {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .product-text1 {
+    font-size: 28px;
+  }
+  .product-text {
+    padding-bottom: 30px;
+  }
+  .product p {
+    font-size: 16px;
+  }
+  .contacts p {
+    font-size: 10px;
+  }
+  .contacts img {
+    width: 80px;
+    height: 43px;
+  }
+  .contacts h4 {
+    font-size: 13px;
+  }
+  .contacts h3 {
+    font-size: 13px;
+  }
+  .footer {
+    font-size: 15px;
+  }
+}
+@media (max-width: 400px) {
+  .header-nav {
+    display: none;
+  }
+  .header img {
+    width: 90px;
+    height: 40px;
+  }
+  .hero {
+    flex-direction: column;
+  }
+  .hero-text h1 {
+    font-size: 32px;
+  }
+  .hero-text span {
+    font-size: 32px;
+  }
+  .hero-text p {
+    font-size: 13px;
+  }
+  .hero-text button {
+    font-size: 13px;
+  }
+  .hero img {
+    width: 354px;
+    height: 208px;
+  }
+  .hero-text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding-bottom: 30px;
+  }
+  .hero2 {
+    flex-direction: column;
+  }
+  .hero2-text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding-top: 30px;
+  }
+  .hero2-text h2 {
+    font-size: 25px;
+  }
+  .hero2-text span {
+    font-size: 25px;
+  }
+  .hero2-text p {
+    font-size: 12px;
+  }
+  .hero2-text p span {
+    font-size: 15px;
+  }
+  .hero2 img {
+    width: 380px;
+    height: 350px;
+  }
+  .product {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .product-text1 {
+    font-size: 28px;
+  }
+  .product-text {
+    padding-bottom: 30px;
+  }
+  .product p {
+    font-size: 16px;
+  }
+  .contacts p {
+    font-size: 10px;
+  }
+  .contacts img {
+    width: 80px;
+    height: 43px;
+  }
+  .contacts h4 {
+    font-size: 13px;
+  }
+  .contacts h3 {
+    font-size: 13px;
+  }
+  .footer {
+    font-size: 15px;
+  }
+}
+@media (max-width: 376px) {
+  .header-nav {
+    display: none;
+  }
+  .header img {
+    width: 90px;
+    height: 40px;
+  }
+  .hero {
+    flex-direction: column;
+  }
+  .hero-text h1 {
+    font-size: 30px;
+  }
+  .hero-text span {
+    font-size: 30px;
+  }
+  .hero-text p {
+    font-size: 12px;
+  }
+  .hero-text button {
+    font-size: 11px;
+  }
+  .hero img {
+    width: 326px;
+    height: 189px;
+  }
+  .hero-text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding-bottom: 30px;
+  }
+  .hero2 {
+    flex-direction: column;
+  }
+  .hero2-text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding-top: 30px;
+  }
+  .hero2-text h2 {
+    font-size: 22px;
+  }
+  .hero2-text span {
+    font-size: 22px;
+  }
+  .hero2-text p {
+    font-size: 11px;
+  }
+  .hero2-text p span {
+    font-size: 13px;
+  }
+  .hero2 img {
+    width: 300px;
+    height: 279px;
+  }
+  .product {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .product-text1 {
+    font-size: 28px;
+  }
+  .product-text {
+    padding-bottom: 30px;
+  }
+  .product p {
+    font-size: 14px;
+  }
+  .contacts p {
+    font-size: 10px;
+  }
+  .contacts img {
+    width: 80px;
+    height: 43px;
+  }
+  .contacts h4 {
+    font-size: 13px;
+  }
+  .contacts h3 {
+    font-size: 13px;
+  }
+  .footer {
+    font-size: 15px;
+  }
+}
+@media (max-width: 320px) {
+  .header-nav {
+    display: none;
+  }
+  .header img {
+    width: 80px;
+    height: 35px;
+  }
+  .hero {
+    flex-direction: column;
+  }
+  .hero-text h1 {
+    font-size: 24px;
+  }
+  .hero-text span {
+    font-size: 24px;
+  }
+  .hero-text p {
+    font-size: 11px;
+  }
+  .hero-text button {
+    font-size: 11px;
+  }
+  .hero img {
+    width: 295px;
+    height: 179px;
+  }
+  .hero-text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding-bottom: 30px;
+  }
+  .hero2 {
+    flex-direction: column;
+  }
+  .hero2-text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding-top: 30px;
+  }
+  .hero2-text h2 {
+    font-size: 20px;
+  }
+  .hero2-text span {
+    font-size: 20px;
+  }
+  .hero2-text p {
+    font-size: 10px;
+  }
+  .hero2-text p span {
+    font-size: 13px;
+  }
+  .hero2 img {
+    width: 300px;
+    height: 279px;
+  }
+  .product {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .product-text1 {
+    font-size: 28px;
+  }
+  .product-text {
+    padding-bottom: 30px;
+  }
+  .product p {
+    font-size: 14px;
+  }
+  .contacts p {
+    font-size: 10px;
+  }
+  .contacts img {
+    width: 80px;
+    height: 43px;
+  }
+  .contacts h4 {
+    font-size: 13px;
+  }
+  .contacts h3 {
+    font-size: 13px;
+  }
+  .footer {
+    font-size: 12px;
+  }
+}
